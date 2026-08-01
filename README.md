@@ -1,9 +1,9 @@
 # Sales Practice Lab 🧪
 
 **Author:** Zephr Brennan  
-**Role:** Entry-Level Sales Learner & Builder  
+**Role:** Telefundraiser | Sales Learner & Builder  
 **Location:** Auckland, New Zealand  
-**Contact:** [LinkedIn](https://www.linkedin.com/in/zephr-bren-a50413426) | [GitHub](https://github.com/ZephrBrennanOfficial) | [Twitter/X](https://twitter.com/ZephrBrennan)
+**Contact:** [Substack](https://zephrbrennan.substack.com) | [LinkedIn](https://www.linkedin.com/in/zephrbrennan) | [GitHub](https://github.com/ZephrBrennanOfficial) | [Twitter/X](https://twitter.com/ZephrBrennan)
 
 ---
 
@@ -11,7 +11,7 @@
 
 Welcome to my **Sales Practice Lab**.
 
-I'm Zephr Brennan — an entry-level person building a career in sales from scratch. I don't have years of quota-carrying experience, and I'm not going to pretend I do. What I have is relentless curiosity, discipline, and a commitment to mastering the fundamentals of modern B2B sales.
+I'm Zephr Brennan — building a career in sales from scratch. I don't have years of quota-carrying experience, and I'm not going to pretend I do. What I have is relentless curiosity, discipline, and a commitment to mastering the fundamentals of modern B2B sales.
 
 Instead of just saying I'm "passionate about sales," I built this repository to prove it. Here you'll find my mock discovery transcripts, cold email experiments, book notes, objection roleplay logs, and a 6-month learning roadmap.
 
@@ -28,7 +28,7 @@ Every script includes a self-critique — what I got right, what I missed, and w
 | [`03-book-notes-and-takeaways.md`](./03-book-notes-and-takeaways.md) | Sales Methodology | Notes from 5 essential sales books — key takeaways, disagreements, and how I'd apply them. |
 | [`04-objection-roleplay-log.md`](./04-objection-roleplay-log.md) | Objection Handling | 8 common objections with my practice response + a "coach's correction" for each. |
 | [`05-learning-roadmap.md`](./05-learning-roadmap.md) | Self-Direction | A 6-month learning plan covering discovery, cold calling, business acumen, and tools. |
-| [`LICENSE`](./LICENSE) | Licensing | All Rights Reserved. |
+| [`LICENSE`](./LICENSE) | Licensing | Creative Commons Attribution 4.0. |
 
 ---
 
@@ -36,11 +36,11 @@ Every script includes a self-critique — what I got right, what I missed, and w
 
 This is one part of my portfolio:
 
-- **[sales-consulting-toolkit](https://github.com/ZephrBrennanOfficial/sales-consulting-toolkit)** — practical frameworks and templates I've built (audit checklists, discovery templates, ROI calculator)
-- **[sales-strategy-hub](https://github.com/ZephrBrennanOfficial/sales-strategy-hub)** — deeper analysis on objection psychology and sales methodology
+- **[sales-consulting-toolkit](https://github.com/ZephrBrennanOfficial/sales-consulting-toolkit)** — practical frameworks, templates, objection handling, and sales psychology I've built
+- **[business-case-studies](https://github.com/ZephrBrennanOfficial/business-case-studies)** — analytical case studies breaking down real sales problems with numbers
 - **[sales-practice-lab](https://github.com/ZephrBrennanOfficial/sales-practice-lab)** (this repo) — where I practice and apply what I'm learning
 
-Think of the toolkit as the tools, the strategy hub as the theory, and this lab as the reps.
+Think of the toolkit as the tools, the case studies as the analysis, and this lab as the reps.
 
 ---
 
@@ -57,7 +57,8 @@ Think of the toolkit as the tools, the strategy hub as the theory, and this lab 
 
 I'm building a career in sales and I'm always open to feedback, conversation, or opportunities.
 
-- **LinkedIn:** [Zephr Brennan](https://www.linkedin.com/in/zephr-bren-a50413426)
+- **Substack:** [https://zephrbrennan.substack.com](https://zephrbrennan.substack.com) — 5-part sales insight series
+- **LinkedIn:** [Zephr Brennan](https://www.linkedin.com/in/zephrbrennan)
 - **GitHub:** [ZephrBrennanOfficial](https://github.com/ZephrBrennanOfficial)
 - **Twitter/X:** [@ZephrBrennan](https://twitter.com/ZephrBrennan)
 
