@@ -1,7 +1,7 @@
 # Sales Practice Lab 🧪
 
 **Author:** Zephr Brennan  
-**Role:** Telefundraiser | Sales Learner & Builder  
+**Role:** Writer | Sales Learner & Builder  
 **Location:** Auckland, New Zealand  
 **Contact:** [Substack](https://zephrbrennan.substack.com) | [LinkedIn](https://www.linkedin.com/in/zephrbrennan) | [GitHub](https://github.com/ZephrBrennanOfficial) | [Twitter/X](https://twitter.com/ZephrBrennan)
 
